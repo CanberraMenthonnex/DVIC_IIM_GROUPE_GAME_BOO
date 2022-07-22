@@ -29,6 +29,12 @@ This game has plenty of small features:
 - random spawn point
 - displaying score after the game over
 
+### Rules
+
+Collect a maximum, of apple, in less then 1 min, at the end of the timer the game end.
+Each point, will not increase your snake, but after the end of the game, the score will be displayed.
+To restart, press the button (wait for the score to fade out) during 5s.
+
 ### Components 
 
 - ESP32: 1
@@ -45,11 +51,13 @@ For the moment the game is still in beta, we plan to add a tone of new features.
 Fill free to propose some new ideas, but there is a list of the next features we will add:
 
 - health point
+- add a battery
 - increase speed at each level 
 - timer upgrade 
 - new sound effect
 - upgrade the box and the controller
 - level system
+- add a multiplayer
 
 ### Result:
 
