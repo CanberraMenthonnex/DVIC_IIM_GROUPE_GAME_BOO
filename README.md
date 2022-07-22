@@ -1,18 +1,32 @@
 ## DVIC IIM GROUP GAME BOO
 
-### Project description 
+### Project description: 
 
-This project is collaborative project of a snake game developed in arduino.
+This project is collaborative project of a snake game developed in C++ working on an ESP32.
 The purpose was to recreate a snake with basic component to display it on a small 8 by 8 led screen.
-The only rule was to be able to fit all the component in a small 3d printed box.
+The only rule was to be able to fit all the component in a small 3d printed box. And to have fun !
 
-### Sketch 
+
+### Get started: 
+
+- Download the project
+- Open Visual Studio Code
+- Install the extension [PlatformIo](https://platformio.org/)
+- Open the folder with the extension
+- Build the project
+- Plug the Game Boo to your computer
+- And have fun !
+
+### Sketch: 
 
 Sketch of the project:
 ![Sketch](images/sketch.png)
 
 Drawing of the sketch of the project:
 ![Sketch](images/sketch2.jpg)
+
+One of the prototype of the box: 
+![Sketch](images/proto.png)
 
 ### Features
 
@@ -57,6 +71,9 @@ Conception of the project
 ![Sketch](images/c7.jpg)
 
 ### Teams
+
+The team:
+![Sketch](images/team.png)
 
 <table>
     <tr>
