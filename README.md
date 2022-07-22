@@ -17,17 +17,6 @@ The only rule was to be able to fit all the component in a small 3d printed box.
 - Plug the Game Boo to your computer
 - And have fun !
 
-### Sketch: 
-
-Sketch of the project:
-![Sketch](images/sketch.png)
-
-Drawing of the sketch of the project:
-![Sketch](images/sketch2.jpg)
-
-One of the prototype of the box: 
-![Sketch](images/proto.png)
-
 ### Features
 
 This game has plenty of small features: 
@@ -62,6 +51,14 @@ Fill free to propose some new ideas, but there is a list of the next features we
 - upgrade the box and the controller
 - level system
 
+### Result:
+
+Build:
+![Sketch](images/result.png)
+
+Small demo:
+![Sketch](images/test.gif)
+
 ### Conceptions
 Conception of the project
 ![Sketch](images/conception.jpg)
@@ -69,6 +66,17 @@ Conception of the project
 ![Sketch](images/conception3.jpg)
 ![Sketch](images/c5.jpg)
 ![Sketch](images/c7.jpg)
+
+### Sketch:
+
+Sketch of the project:
+![Sketch](images/sketch.png)
+
+Drawing of the sketch of the project:
+![Sketch](images/sketch2.jpg)
+
+One of the prototype of the box:
+![Sketch](images/proto.png)
 
 ### Teams
 
