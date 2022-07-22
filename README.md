@@ -31,7 +31,6 @@ This game has plenty of small features:
 - ESP32: 1
 - Buzzer: 1
 - Led screen 8x8: 1
-- Bread board: 1
 - Joystick: 1
 - Button: 1
 - Red led: 3
@@ -52,6 +51,10 @@ Fill free to propose some new ideas, but there is a list of the next features we
 ### Conceptions
 Conception of the project
 ![Sketch](images/conception.jpg)
+![Sketch](images/conception2.jpg)
+![Sketch](images/conception3.jpg)
+![Sketch](images/c5.jpg)
+![Sketch](images/c7.jpg)
 
 ### Teams
 
@@ -79,6 +82,12 @@ Conception of the project
             <a href="https://github.com/SGJipe">
                 <img src="https://avatars.githubusercontent.com/u/91059660?v=4" height="100" witdh="100"/><br>
                 <b>Jean Pierre Han</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/arcausin">
+                <img src="https://avatars.githubusercontent.com/u/82374375?v=4" height="100" witdh="100"/><br>
+                <b>Alexis D'Ambrosio</b>
             </a>
         </td>
 </table>
